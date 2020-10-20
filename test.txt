@@ -2,3 +2,5 @@ commit-1`
 commit2 
 commit 3 -- new branch
 commit 4 -- done via github.
+commit 56 -- done locally .
+commit7 -- done from vi editor from terminal.  
